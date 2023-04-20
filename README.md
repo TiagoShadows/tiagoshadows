@@ -1,4 +1,4 @@
-## Olá me chamo Tiago Araujo, e estudo programação front-end !
+## Olá! Me chamo Tiago Araujo, e estudo programação front-end !
 
 <div style="display: inline_block"><br>
   
