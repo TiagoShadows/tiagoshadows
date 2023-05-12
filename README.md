@@ -1,5 +1,5 @@
  <h1 align="center">
- Olá!! Me chamo Tiago Araujo, e estudo programação front-end!
+ Olá!! Me chamo Tiago Araujo, e estudo programação Back-end!
  </h1>
 
 <div style="display: inline_block"><br>
